@@ -27,7 +27,7 @@ expo(x)
 ~~~
 
 ## Output:
-![exponentiation of a number](expo.png)
+![exponentiation of a number](https://github.com/RanjithD18/EXPONENTIATION/blob/main/Screenshot%20(85).png)
 
 
 ## Result:
